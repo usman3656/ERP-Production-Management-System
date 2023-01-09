@@ -30,5 +30,74 @@ The project development started after conducting interviews at ZM Corporation to
 
 ### Login Page
 	
+<img width="729" alt="Screenshot_20221201_012916" src="https://user-images.githubusercontent.com/76508613/211358495-68330084-0eac-402c-893e-156c3a439872.png">
+
+
+o Working
+
+	 Database is connected behind the scenes for the login page.
+
+	 When a user enters his/her credentials, they are checked in the database for verification
+
+	 If the Email and Password matches correctly, a pop-up is displayed saying “Username and Password Matched”
+
+	 If Email and Passwords were incorrect, a pop-up is displayed saying
+  	“Incorrect Username and Password”
+  
+o How to Use It:
+
+	 To, type in your Email and Password, first clear the text on the dialog box
+
+	 After credentials are added, click the login button.
+
+	 A pop-up menu will open.
+
+	 On Pressing okay, the dashboard will become visible
+
+### Dashboard
+
+<img width="884" alt="Screenshot_20221201_013805" src="https://user-images.githubusercontent.com/76508613/211359411-7cad58d4-c313-4606-acb8-b504db5d55d3.png">
+
+o Working
+
+	 Clicking on any side menu option, will redirect you to it’s page.
+	
+	 Clicking on add user, will direct to a new page, asking to enter information to create a new user
+	
+	 Clicking on logout, will close the dashboard and will move you out of the system and back to the login page
+	
+	 NOTE: Option More, is right not in this version.
+	
+o How To Use It:
+
+	 Different Tabs could be accessed by just clicking on the icon with the cursor of the mouse.
+	
+	 Click on the search bar to type, what you want to search
+	
+### Add Users
+ 
+ ![Screenshot_20221201_081729](https://user-images.githubusercontent.com/76508613/211359918-a987dae7-548e-45b2-8c92-02507b06606b.png)
+
+o Working: 
+
+	 Data is collected from all the fields and stored in an array.
+	
+	 Pressing “Add User” button, Array block is passed to a function, which executes an “INSERT” query to enter all the data into the table.
+	
+ 	 Email, Password and Role are extracted separately and are passed to the ‘logincredentials’ table to create Email and Password for login.
+
+o How To Use It:
+
+ 	 Fill all the details in the text fields and select option through the drop-down menu.
+	
+	 Don’t leave any field marked with (*) in the heading.
+	
+	 Press “Add User”, to create user credential and store all the entries in the database.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+	
+## Note: 
+
+Document has been attached for compltet details and overview of the project.
 
 
