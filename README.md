@@ -1,5 +1,7 @@
 # SE - Production Management System
 
+created in 2022
+
 ## Abstract
 
 The purpose of the project is to streamline the production management system of an existing business, (ZM Corporation). This project proposes a technical solution to improve ZM Corporation's production management to make it easier for them to go through the information and make informed decisions based on the information provided.
