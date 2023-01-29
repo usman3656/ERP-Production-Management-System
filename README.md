@@ -2,6 +2,9 @@
 
 created in 2022
 
+figma 
+https://www.figma.com/proto/r88oQnBVnKh1HvvhAh5QJz/Production-Management-System?page-id=0%3A1&node-id=235%3A524&viewport=1089%2C1346%2C0.07&scaling=min-zoom&starting-point-node-id=235%3A524
+
 ## Abstract
 
 The purpose of the project is to streamline the production management system of an existing business, (ZM Corporation). This project proposes a technical solution to improve ZM Corporation's production management to make it easier for them to go through the information and make informed decisions based on the information provided.
